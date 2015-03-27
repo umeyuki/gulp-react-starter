@@ -1,3 +1,3 @@
 # gulp-react-starter
-react template includes sass and slim and purecss for me.
+react template includes sass,slim,purecss for me.
 
